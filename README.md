@@ -29,5 +29,5 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: []()
-- Live Site URL: []()
+- Solution URL: [https://github.com/pakim/newsletter/](https://github.com/pakim/newsletter/)
+- Live Site URL: [https://pakim.github.io/newsletter/](https://pakim.github.io/newsletter/)
